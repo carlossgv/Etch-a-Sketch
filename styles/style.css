@@ -1,0 +1,11 @@
+.container {
+    display: grid;
+    width: 540px;
+    height: 540px;
+    border: khaki solid;
+}
+
+.square {
+    width: 100%;
+    height: 100%;
+}
